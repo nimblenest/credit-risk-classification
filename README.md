@@ -6,8 +6,6 @@ The purpose of this analysis is to evaluate the performance of machine learning 
 
 Results:
 
-Logistic Regression Model:
-
 -Accuracy Score: 0.99
 
 -Precision Score: 0.85
