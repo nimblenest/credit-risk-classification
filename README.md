@@ -6,10 +6,14 @@ The purpose of this analysis is to evaluate the performance of machine learning 
 
 Results:
 
--Logistic Regression Model:
+Logistic Regression Model:
+
 -Accuracy Score: 0.99
+
 -Precision Score: 0.85
+
 -Recall Score: 0.99
+
 -F1-Score: 0.92
 
 Summary:
